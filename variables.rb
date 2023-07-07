@@ -19,3 +19,7 @@ monthly_rent = 1000.00
 puts "My rent was once cheap but is now #{monthly_rent}."
 security_deposit = 1200.00
 puts "The deposit for Turing was #{security_deposit}."
+#Booleans
+millionaire = false
+us_citizen = true
+student = true
