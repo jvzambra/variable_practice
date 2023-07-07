@@ -1,9 +1,12 @@
 # Strings
 name = "Jorge"
+name = "JZ"
 puts "I go by #{name}."
 month_of_birth = "February"
+month_of_birth = "March"
 puts "I was not born in #{month_of_birth}."
-yolo = "You only live once."
+yolo = "You only live once"
+yolo = "You only live orange-style"
 puts "The motto #{yolo} makes absolutely no sense!"
 # Integers
 age = 35
